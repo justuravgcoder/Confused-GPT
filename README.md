@@ -4,7 +4,7 @@
 # Installation
 Use any python IDE of choice and run the following installation commands in the terminal to get the libraries up and running:
 
-COLAB : !pip -q install langchain huggingface_hub transformers sentence_transformers accelerate bitsandbytes  
+COLAB : '''shell !pip -q install langchain huggingface_hub transformers sentence_transformers accelerate bitsandbytes  '''
 
 VSCODE : pip install langchain huggingface_hub transformers sentence_transformers accelerate bitsandbytes
 
