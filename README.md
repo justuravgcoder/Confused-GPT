@@ -4,8 +4,10 @@
 # Installation
 Use any python IDE of choice and run the following installation commands in the terminal to get the libraries up and running:
 
-!pip -q install langchain huggingface_hub transformers sentence_transformers accelerate bitsandbytes
-  
+COLAB : !pip -q install langchain huggingface_hub transformers sentence_transformers accelerate bitsandbytes  
+
+VSCODE : pip install langchain huggingface_hub transformers sentence_transformers accelerate bitsandbytes
+
 Then go onto hugging face, create an account and move onto settings to create your access tokens inorder to use models.
 Place your key in the area where is says YOUR HUGGING FACE KEY HERE.
 And you are ready to go
