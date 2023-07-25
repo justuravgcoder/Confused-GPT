@@ -2,7 +2,7 @@ import os
 import streamlit as st
 from langchain import PromptTemplate, HuggingFaceHub, LLMChain
 
-os.environ['HUGGINGFACEHUB_API_TOKEN'] = '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'
+os.environ['HUGGINGFACEHUB_API_TOKEN'] = 'Your Hugging Face Key Here'
 template = """Question: {question}
 Answer:"""
 prompt = PromptTemplate(template=template, input_variables=["question"])
