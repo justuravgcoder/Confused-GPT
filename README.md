@@ -1,4 +1,4 @@
-# Confused-GPT
+# Confused-GPT ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ## Introducing Confused GPT that will give mind bending questions to your questions. Easy to use and very educative. I am using langchain python library and model apis from hugging face.
 
 # Installation
