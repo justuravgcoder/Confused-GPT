@@ -8,6 +8,11 @@ COLAB : ``` !pip -q install langchain huggingface_hub transformers sentence_tran
 
 VSCODE : ``` pip install langchain huggingface_hub transformers sentence_transformers accelerate bitsandbytes ```
 
-Then go onto hugging face, create an account and move onto settings to create your access tokens inorder to use models.
-Place your key in the area where is says YOUR HUGGING FACE KEY HERE.
-And you are ready to go
+# Usage
+<ul>
+<li> Head over to <a href = "https://huggingface.co/login">Hugging Face and create an account</a></li>
+<li> Open the setting after you have verified your mails</li>
+<li> Find Access Tokens in settings and create your token</li>
+<li> Use this token in place of the text YOUR HUGGING FACE KEY HERE</li>
+<li> Then use <a href = "https://huggingface.co/models?pipeline_tag=text2text-generation&sort=trending"> this page </a> to swap the models used in code with others</li>
+</ul>
